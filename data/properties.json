@@ -1,0 +1,4146 @@
+[
+  {
+    "external_id": "P0001",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 443814,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "square_feet": 2994,
+    "lot_size": 6893
+  },
+  {
+    "external_id": "P0002",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 271858,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "square_feet": 1799,
+    "lot_size": 7974
+  },
+  {
+    "external_id": "P0003",
+    "city": "Austin",
+    "state": "TX",
+    "price": 226169,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "square_feet": 1428,
+    "lot_size": 7083
+  },
+  {
+    "external_id": "P0004",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 533216,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "square_feet": 2900,
+    "lot_size": 6046
+  },
+  {
+    "external_id": "P0005",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 222261,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "square_feet": 1492,
+    "lot_size": 8440
+  },
+  {
+    "external_id": "P0006",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 275068,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 1629,
+    "lot_size": 4046
+  },
+  {
+    "external_id": "P0007",
+    "city": "Austin",
+    "state": "TX",
+    "price": 301118,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "square_feet": 1929,
+    "lot_size": 8315
+  },
+  {
+    "external_id": "P0008",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 545749,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "square_feet": 3140,
+    "lot_size": 8935
+  },
+  {
+    "external_id": "P0009",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 438812,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "square_feet": 3172,
+    "lot_size": 8143
+  },
+  {
+    "external_id": "P0010",
+    "city": "Austin",
+    "state": "TX",
+    "price": 254220,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 2381,
+    "lot_size": 5758
+  },
+  {
+    "external_id": "P0011",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 416268,
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "square_feet": 2368,
+    "lot_size": 8855
+  },
+  {
+    "external_id": "P0012",
+    "city": "Austin",
+    "state": "TX",
+    "price": 247671,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 2054,
+    "lot_size": 4581
+  },
+  {
+    "external_id": "P0013",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 337780,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "square_feet": 2714,
+    "lot_size": 6436
+  },
+  {
+    "external_id": "P0014",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 285631,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 1683,
+    "lot_size": 3012
+  },
+  {
+    "external_id": "P0015",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 137981,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "square_feet": 930,
+    "lot_size": 8435
+  },
+  {
+    "external_id": "P0016",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 302473,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 2729,
+    "lot_size": 4787
+  },
+  {
+    "external_id": "P0017",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 424600,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "square_feet": 3048,
+    "lot_size": 6804
+  },
+  {
+    "external_id": "P0018",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 329148,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "square_feet": 2335,
+    "lot_size": 5707
+  },
+  {
+    "external_id": "P0019",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 462158,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "square_feet": 2724,
+    "lot_size": 6788
+  },
+  {
+    "external_id": "P0020",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 237339,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "square_feet": 1897,
+    "lot_size": 6961
+  },
+  {
+    "external_id": "P0021",
+    "city": "Houston",
+    "state": "TX",
+    "price": 319155,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "square_feet": 2906,
+    "lot_size": 4365
+  },
+  {
+    "external_id": "P0022",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 102755,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 978,
+    "lot_size": 4575
+  },
+  {
+    "external_id": "P0023",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 377626,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "square_feet": 2826,
+    "lot_size": 8621
+  },
+  {
+    "external_id": "P0024",
+    "city": "Austin",
+    "state": "TX",
+    "price": 259918,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 1768,
+    "lot_size": 5471
+  },
+  {
+    "external_id": "P0025",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 245115,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "square_feet": 2205,
+    "lot_size": 5836
+  },
+  {
+    "external_id": "P0026",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 369852,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "square_feet": 2627,
+    "lot_size": 8865
+  },
+  {
+    "external_id": "P0027",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 181113,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "square_feet": 932,
+    "lot_size": 4652
+  },
+  {
+    "external_id": "P0028",
+    "city": "Houston",
+    "state": "TX",
+    "price": 316418,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "square_feet": 2689,
+    "lot_size": 3177
+  },
+  {
+    "external_id": "P0029",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 215683,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 1697,
+    "lot_size": 5173
+  },
+  {
+    "external_id": "P0030",
+    "city": "Houston",
+    "state": "TX",
+    "price": 376629,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "square_feet": 1979,
+    "lot_size": 4049
+  },
+  {
+    "external_id": "P0031",
+    "city": "Houston",
+    "state": "TX",
+    "price": 340101,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 1975,
+    "lot_size": 8074
+  },
+  {
+    "external_id": "P0032",
+    "city": "Austin",
+    "state": "TX",
+    "price": 157019,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "square_feet": 952,
+    "lot_size": 5058
+  },
+  {
+    "external_id": "P0033",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 286070,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 2041,
+    "lot_size": 7897
+  },
+  {
+    "external_id": "P0034",
+    "city": "Houston",
+    "state": "TX",
+    "price": 539191,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "square_feet": 3104,
+    "lot_size": 6641
+  },
+  {
+    "external_id": "P0035",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 284200,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 1807,
+    "lot_size": 8538
+  },
+  {
+    "external_id": "P0036",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 195981,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 1328,
+    "lot_size": 3264
+  },
+  {
+    "external_id": "P0037",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 493283,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "square_feet": 2688,
+    "lot_size": 5861
+  },
+  {
+    "external_id": "P0038",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 332178,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "square_feet": 2374,
+    "lot_size": 7539
+  },
+  {
+    "external_id": "P0039",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 214506,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "square_feet": 1219,
+    "lot_size": 7838
+  },
+  {
+    "external_id": "P0040",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 202546,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "square_feet": 1168,
+    "lot_size": 8736
+  },
+  {
+    "external_id": "P0041",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 303958,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 2000,
+    "lot_size": 4213
+  },
+  {
+    "external_id": "P0042",
+    "city": "Austin",
+    "state": "TX",
+    "price": 380840,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "square_feet": 2140,
+    "lot_size": 6380
+  },
+  {
+    "external_id": "P0043",
+    "city": "Houston",
+    "state": "TX",
+    "price": 189410,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "square_feet": 1274,
+    "lot_size": 8366
+  },
+  {
+    "external_id": "P0044",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 316927,
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "square_feet": 2770,
+    "lot_size": 5232
+  },
+  {
+    "external_id": "P0045",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 369503,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 2748,
+    "lot_size": 3745
+  },
+  {
+    "external_id": "P0046",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 294741,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "square_feet": 2082,
+    "lot_size": 3439
+  },
+  {
+    "external_id": "P0047",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 567759,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 3153,
+    "lot_size": 4111
+  },
+  {
+    "external_id": "P0048",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 350243,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "square_feet": 2097,
+    "lot_size": 4265
+  },
+  {
+    "external_id": "P0049",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 479411,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "square_feet": 2966,
+    "lot_size": 3406
+  },
+  {
+    "external_id": "P0050",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 116779,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "square_feet": 1075,
+    "lot_size": 7497
+  },
+  {
+    "external_id": "P0051",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 249622,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "square_feet": 1947,
+    "lot_size": 8859
+  },
+  {
+    "external_id": "P0052",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 166945,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "square_feet": 1145,
+    "lot_size": 4468
+  },
+  {
+    "external_id": "P0053",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 507563,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "square_feet": 3073,
+    "lot_size": 6925
+  },
+  {
+    "external_id": "P0054",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 209979,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "square_feet": 1376,
+    "lot_size": 8298
+  },
+  {
+    "external_id": "P0055",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 414358,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "square_feet": 2383,
+    "lot_size": 8945
+  },
+  {
+    "external_id": "P0056",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 293273,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 1631,
+    "lot_size": 5031
+  },
+  {
+    "external_id": "P0057",
+    "city": "Houston",
+    "state": "TX",
+    "price": 372247,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 2379,
+    "lot_size": 4577
+  },
+  {
+    "external_id": "P0058",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 333806,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 2732,
+    "lot_size": 8664
+  },
+  {
+    "external_id": "P0059",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 268426,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "square_feet": 2575,
+    "lot_size": 5333
+  },
+  {
+    "external_id": "P0060",
+    "city": "Houston",
+    "state": "TX",
+    "price": 359076,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "square_feet": 2021,
+    "lot_size": 8873
+  },
+  {
+    "external_id": "P0061",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 267320,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 1720,
+    "lot_size": 7913
+  },
+  {
+    "external_id": "P0062",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 261830,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "square_feet": 2124,
+    "lot_size": 3912
+  },
+  {
+    "external_id": "P0063",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 264104,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "square_feet": 1523,
+    "lot_size": 8199
+  },
+  {
+    "external_id": "P0064",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 304923,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "square_feet": 1945,
+    "lot_size": 5505
+  },
+  {
+    "external_id": "P0065",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 153698,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "square_feet": 984,
+    "lot_size": 8273
+  },
+  {
+    "external_id": "P0066",
+    "city": "Austin",
+    "state": "TX",
+    "price": 197127,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "square_feet": 1689,
+    "lot_size": 7647
+  },
+  {
+    "external_id": "P0067",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 310726,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "square_feet": 2395,
+    "lot_size": 8231
+  },
+  {
+    "external_id": "P0068",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 214097,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "square_feet": 1380,
+    "lot_size": 3837
+  },
+  {
+    "external_id": "P0069",
+    "city": "Austin",
+    "state": "TX",
+    "price": 362593,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "square_feet": 2495,
+    "lot_size": 6276
+  },
+  {
+    "external_id": "P0070",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 375235,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "square_feet": 2192,
+    "lot_size": 5985
+  },
+  {
+    "external_id": "P0071",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 207818,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "square_feet": 1127,
+    "lot_size": 6586
+  },
+  {
+    "external_id": "P0072",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 164851,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "square_feet": 1185,
+    "lot_size": 8277
+  },
+  {
+    "external_id": "P0073",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 169593,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "square_feet": 1580,
+    "lot_size": 6823
+  },
+  {
+    "external_id": "P0074",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 425722,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "square_feet": 2944,
+    "lot_size": 6342
+  },
+  {
+    "external_id": "P0075",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 200609,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "square_feet": 1090,
+    "lot_size": 7080
+  },
+  {
+    "external_id": "P0076",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 325024,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "square_feet": 2169,
+    "lot_size": 5823
+  },
+  {
+    "external_id": "P0077",
+    "city": "Houston",
+    "state": "TX",
+    "price": 157193,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 1143,
+    "lot_size": 4336
+  },
+  {
+    "external_id": "P0078",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 300093,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "square_feet": 2755,
+    "lot_size": 5225
+  },
+  {
+    "external_id": "P0079",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 386941,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "square_feet": 2343,
+    "lot_size": 8689
+  },
+  {
+    "external_id": "P0080",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 257774,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "square_feet": 1880,
+    "lot_size": 4269
+  },
+  {
+    "external_id": "P0081",
+    "city": "Austin",
+    "state": "TX",
+    "price": 258635,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 1726,
+    "lot_size": 4312
+  },
+  {
+    "external_id": "P0082",
+    "city": "Austin",
+    "state": "TX",
+    "price": 405020,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 2777,
+    "lot_size": 5489
+  },
+  {
+    "external_id": "P0083",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 332617,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "square_feet": 2235,
+    "lot_size": 8181
+  },
+  {
+    "external_id": "P0084",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 348844,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "square_feet": 2304,
+    "lot_size": 5979
+  },
+  {
+    "external_id": "P0085",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 238179,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "square_feet": 1326,
+    "lot_size": 3768
+  },
+  {
+    "external_id": "P0086",
+    "city": "Houston",
+    "state": "TX",
+    "price": 131522,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "square_feet": 1032,
+    "lot_size": 3504
+  },
+  {
+    "external_id": "P0087",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 167870,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 1535,
+    "lot_size": 8661
+  },
+  {
+    "external_id": "P0088",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 228746,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 1619,
+    "lot_size": 5219
+  },
+  {
+    "external_id": "P0089",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 417114,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 2665,
+    "lot_size": 4075
+  },
+  {
+    "external_id": "P0090",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 351716,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 3074,
+    "lot_size": 3226
+  },
+  {
+    "external_id": "P0091",
+    "city": "Houston",
+    "state": "TX",
+    "price": 391560,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "square_feet": 2178,
+    "lot_size": 8937
+  },
+  {
+    "external_id": "P0092",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 243046,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "square_feet": 1691,
+    "lot_size": 6368
+  },
+  {
+    "external_id": "P0093",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 458474,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "square_feet": 3035,
+    "lot_size": 3623
+  },
+  {
+    "external_id": "P0094",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 275938,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 1962,
+    "lot_size": 7558
+  },
+  {
+    "external_id": "P0095",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 168446,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "square_feet": 1076,
+    "lot_size": 6846
+  },
+  {
+    "external_id": "P0096",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 300349,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 2157,
+    "lot_size": 5665
+  },
+  {
+    "external_id": "P0097",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 214506,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 1661,
+    "lot_size": 6305
+  },
+  {
+    "external_id": "P0098",
+    "city": "Houston",
+    "state": "TX",
+    "price": 398670,
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "square_feet": 2339,
+    "lot_size": 8709
+  },
+  {
+    "external_id": "P0099",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 125688,
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "square_feet": 1293,
+    "lot_size": 5400
+  },
+  {
+    "external_id": "P0100",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 361918,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "square_feet": 2567,
+    "lot_size": 7729
+  },
+  {
+    "external_id": "P0101",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 442932,
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "square_feet": 3069,
+    "lot_size": 5566
+  },
+  {
+    "external_id": "P0102",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 440837,
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "square_feet": 2783,
+    "lot_size": 5659
+  },
+  {
+    "external_id": "P0103",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 302285,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "square_feet": 1961,
+    "lot_size": 5434
+  },
+  {
+    "external_id": "P0104",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 362168,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "square_feet": 2473,
+    "lot_size": 7644
+  },
+  {
+    "external_id": "P0105",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 238639,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "square_feet": 1686,
+    "lot_size": 6982
+  },
+  {
+    "external_id": "P0106",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 340360,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "square_feet": 2603,
+    "lot_size": 6474
+  },
+  {
+    "external_id": "P0107",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 211702,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "square_feet": 1727,
+    "lot_size": 6835
+  },
+  {
+    "external_id": "P0108",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 429931,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 2676,
+    "lot_size": 4730
+  },
+  {
+    "external_id": "P0109",
+    "city": "Houston",
+    "state": "TX",
+    "price": 137155,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "square_feet": 977,
+    "lot_size": 4207
+  },
+  {
+    "external_id": "P0110",
+    "city": "Houston",
+    "state": "TX",
+    "price": 133655,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 1078,
+    "lot_size": 5363
+  },
+  {
+    "external_id": "P0111",
+    "city": "Houston",
+    "state": "TX",
+    "price": 178151,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 1338,
+    "lot_size": 7760
+  },
+  {
+    "external_id": "P0112",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 254586,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "square_feet": 1424,
+    "lot_size": 6115
+  },
+  {
+    "external_id": "P0113",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 395401,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "square_feet": 2613,
+    "lot_size": 3507
+  },
+  {
+    "external_id": "P0114",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 395379,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "square_feet": 2984,
+    "lot_size": 4494
+  },
+  {
+    "external_id": "P0115",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 169573,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "square_feet": 1109,
+    "lot_size": 3772
+  },
+  {
+    "external_id": "P0116",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 421598,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "square_feet": 3169,
+    "lot_size": 7393
+  },
+  {
+    "external_id": "P0117",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 188785,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "square_feet": 1656,
+    "lot_size": 3297
+  },
+  {
+    "external_id": "P0118",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 361997,
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "square_feet": 2330,
+    "lot_size": 5561
+  },
+  {
+    "external_id": "P0119",
+    "city": "Houston",
+    "state": "TX",
+    "price": 289565,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "square_feet": 1952,
+    "lot_size": 3573
+  },
+  {
+    "external_id": "P0120",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 158510,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "square_feet": 1585,
+    "lot_size": 8738
+  },
+  {
+    "external_id": "P0121",
+    "city": "Houston",
+    "state": "TX",
+    "price": 328218,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "square_feet": 2859,
+    "lot_size": 8851
+  },
+  {
+    "external_id": "P0122",
+    "city": "Houston",
+    "state": "TX",
+    "price": 357944,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "square_feet": 3188,
+    "lot_size": 8418
+  },
+  {
+    "external_id": "P0123",
+    "city": "Houston",
+    "state": "TX",
+    "price": 157668,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 1154,
+    "lot_size": 5604
+  },
+  {
+    "external_id": "P0124",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 171065,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 1385,
+    "lot_size": 6097
+  },
+  {
+    "external_id": "P0125",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 238521,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "square_feet": 1532,
+    "lot_size": 7911
+  },
+  {
+    "external_id": "P0126",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 486535,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 2716,
+    "lot_size": 6271
+  },
+  {
+    "external_id": "P0127",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 283656,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 2277,
+    "lot_size": 5364
+  },
+  {
+    "external_id": "P0128",
+    "city": "Houston",
+    "state": "TX",
+    "price": 168568,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "square_feet": 1195,
+    "lot_size": 4133
+  },
+  {
+    "external_id": "P0129",
+    "city": "Austin",
+    "state": "TX",
+    "price": 327017,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "square_feet": 2054,
+    "lot_size": 4046
+  },
+  {
+    "external_id": "P0130",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 227972,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "square_feet": 1375,
+    "lot_size": 5442
+  },
+  {
+    "external_id": "P0131",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 309578,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "square_feet": 1603,
+    "lot_size": 5618
+  },
+  {
+    "external_id": "P0132",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 355144,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 2703,
+    "lot_size": 6511
+  },
+  {
+    "external_id": "P0133",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 241438,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 2234,
+    "lot_size": 6480
+  },
+  {
+    "external_id": "P0134",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 170954,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "square_feet": 1130,
+    "lot_size": 7317
+  },
+  {
+    "external_id": "P0135",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 386856,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "square_feet": 3122,
+    "lot_size": 5684
+  },
+  {
+    "external_id": "P0136",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 219162,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "square_feet": 2031,
+    "lot_size": 3293
+  },
+  {
+    "external_id": "P0137",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 301182,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "square_feet": 2351,
+    "lot_size": 5339
+  },
+  {
+    "external_id": "P0138",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 190614,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 1160,
+    "lot_size": 3728
+  },
+  {
+    "external_id": "P0139",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 352557,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "square_feet": 3077,
+    "lot_size": 6536
+  },
+  {
+    "external_id": "P0140",
+    "city": "Houston",
+    "state": "TX",
+    "price": 289223,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "square_feet": 2540,
+    "lot_size": 3220
+  },
+  {
+    "external_id": "P0141",
+    "city": "Houston",
+    "state": "TX",
+    "price": 403634,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "square_feet": 2333,
+    "lot_size": 7386
+  },
+  {
+    "external_id": "P0142",
+    "city": "Austin",
+    "state": "TX",
+    "price": 495964,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "square_feet": 2735,
+    "lot_size": 8210
+  },
+  {
+    "external_id": "P0143",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 235033,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "square_feet": 1557,
+    "lot_size": 5882
+  },
+  {
+    "external_id": "P0144",
+    "city": "Austin",
+    "state": "TX",
+    "price": 412806,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "square_feet": 2388,
+    "lot_size": 4453
+  },
+  {
+    "external_id": "P0145",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 273890,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 2013,
+    "lot_size": 4485
+  },
+  {
+    "external_id": "P0146",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 382744,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "square_feet": 2658,
+    "lot_size": 6047
+  },
+  {
+    "external_id": "P0147",
+    "city": "Austin",
+    "state": "TX",
+    "price": 227487,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "square_feet": 1504,
+    "lot_size": 3203
+  },
+  {
+    "external_id": "P0148",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 234579,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "square_feet": 1752,
+    "lot_size": 6650
+  },
+  {
+    "external_id": "P0149",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 168306,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "square_feet": 1011,
+    "lot_size": 8816
+  },
+  {
+    "external_id": "P0150",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 124148,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 938,
+    "lot_size": 4312
+  },
+  {
+    "external_id": "P0151",
+    "city": "Houston",
+    "state": "TX",
+    "price": 265843,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 2033,
+    "lot_size": 3615
+  },
+  {
+    "external_id": "P0152",
+    "city": "Houston",
+    "state": "TX",
+    "price": 345278,
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "square_feet": 2421,
+    "lot_size": 6768
+  },
+  {
+    "external_id": "P0153",
+    "city": "Houston",
+    "state": "TX",
+    "price": 348793,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "square_feet": 2905,
+    "lot_size": 5438
+  },
+  {
+    "external_id": "P0154",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 456547,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "square_feet": 2709,
+    "lot_size": 4985
+  },
+  {
+    "external_id": "P0155",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 238790,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "square_feet": 1383,
+    "lot_size": 3236
+  },
+  {
+    "external_id": "P0156",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 101201,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "square_feet": 945,
+    "lot_size": 4229
+  },
+  {
+    "external_id": "P0157",
+    "city": "Houston",
+    "state": "TX",
+    "price": 371833,
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "square_feet": 1927,
+    "lot_size": 3453
+  },
+  {
+    "external_id": "P0158",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 339109,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 2423,
+    "lot_size": 5279
+  },
+  {
+    "external_id": "P0159",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 523521,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "square_feet": 2952,
+    "lot_size": 3096
+  },
+  {
+    "external_id": "P0160",
+    "city": "Houston",
+    "state": "TX",
+    "price": 230052,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 1547,
+    "lot_size": 8008
+  },
+  {
+    "external_id": "P0161",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 413547,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "square_feet": 2629,
+    "lot_size": 5206
+  },
+  {
+    "external_id": "P0162",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 435083,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "square_feet": 3071,
+    "lot_size": 3043
+  },
+  {
+    "external_id": "P0163",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 184955,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "square_feet": 1389,
+    "lot_size": 4200
+  },
+  {
+    "external_id": "P0164",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 215215,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "square_feet": 1726,
+    "lot_size": 7928
+  },
+  {
+    "external_id": "P0165",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 343075,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 2577,
+    "lot_size": 5637
+  },
+  {
+    "external_id": "P0166",
+    "city": "Houston",
+    "state": "TX",
+    "price": 259779,
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "square_feet": 1575,
+    "lot_size": 6788
+  },
+  {
+    "external_id": "P0167",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 139333,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "square_feet": 948,
+    "lot_size": 5074
+  },
+  {
+    "external_id": "P0168",
+    "city": "Houston",
+    "state": "TX",
+    "price": 212068,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "square_feet": 1089,
+    "lot_size": 3155
+  },
+  {
+    "external_id": "P0169",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 222315,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "square_feet": 1954,
+    "lot_size": 6128
+  },
+  {
+    "external_id": "P0170",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 187036,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "square_feet": 1471,
+    "lot_size": 6876
+  },
+  {
+    "external_id": "P0171",
+    "city": "Austin",
+    "state": "TX",
+    "price": 180053,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "square_feet": 1153,
+    "lot_size": 3790
+  },
+  {
+    "external_id": "P0172",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 199259,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 1436,
+    "lot_size": 3209
+  },
+  {
+    "external_id": "P0173",
+    "city": "Austin",
+    "state": "TX",
+    "price": 348765,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "square_feet": 2971,
+    "lot_size": 7833
+  },
+  {
+    "external_id": "P0174",
+    "city": "Houston",
+    "state": "TX",
+    "price": 229704,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 1677,
+    "lot_size": 8026
+  },
+  {
+    "external_id": "P0175",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 353984,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "square_feet": 2758,
+    "lot_size": 5798
+  },
+  {
+    "external_id": "P0176",
+    "city": "Houston",
+    "state": "TX",
+    "price": 207014,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "square_feet": 1153,
+    "lot_size": 5303
+  },
+  {
+    "external_id": "P0177",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 105800,
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "square_feet": 912,
+    "lot_size": 3931
+  },
+  {
+    "external_id": "P0178",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 149550,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "square_feet": 1055,
+    "lot_size": 5132
+  },
+  {
+    "external_id": "P0179",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 278385,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 2005,
+    "lot_size": 7776
+  },
+  {
+    "external_id": "P0180",
+    "city": "Houston",
+    "state": "TX",
+    "price": 457373,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 2784,
+    "lot_size": 8648
+  },
+  {
+    "external_id": "P0181",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 205340,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "square_feet": 1316,
+    "lot_size": 3874
+  },
+  {
+    "external_id": "P0182",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 264791,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "square_feet": 2247,
+    "lot_size": 3776
+  },
+  {
+    "external_id": "P0183",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 225498,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 1266,
+    "lot_size": 8532
+  },
+  {
+    "external_id": "P0184",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 180512,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 1001,
+    "lot_size": 4621
+  },
+  {
+    "external_id": "P0185",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 222341,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "square_feet": 1506,
+    "lot_size": 8127
+  },
+  {
+    "external_id": "P0186",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 321258,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 2272,
+    "lot_size": 6838
+  },
+  {
+    "external_id": "P0187",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 234250,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 1296,
+    "lot_size": 4153
+  },
+  {
+    "external_id": "P0188",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 108441,
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "square_feet": 961,
+    "lot_size": 7073
+  },
+  {
+    "external_id": "P0189",
+    "city": "Austin",
+    "state": "TX",
+    "price": 271922,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "square_feet": 1806,
+    "lot_size": 3163
+  },
+  {
+    "external_id": "P0190",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 414526,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "square_feet": 2647,
+    "lot_size": 4675
+  },
+  {
+    "external_id": "P0191",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 551517,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 3200,
+    "lot_size": 4457
+  },
+  {
+    "external_id": "P0192",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 285467,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "square_feet": 2538,
+    "lot_size": 6180
+  },
+  {
+    "external_id": "P0193",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 180917,
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "square_feet": 1466,
+    "lot_size": 8246
+  },
+  {
+    "external_id": "P0194",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 413616,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 2845,
+    "lot_size": 6791
+  },
+  {
+    "external_id": "P0195",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 319185,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "square_feet": 2937,
+    "lot_size": 5293
+  },
+  {
+    "external_id": "P0196",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 216873,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "square_feet": 1144,
+    "lot_size": 3254
+  },
+  {
+    "external_id": "P0197",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 386402,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 2599,
+    "lot_size": 4309
+  },
+  {
+    "external_id": "P0198",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 469311,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "square_feet": 3135,
+    "lot_size": 7838
+  },
+  {
+    "external_id": "P0199",
+    "city": "Austin",
+    "state": "TX",
+    "price": 343103,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "square_feet": 2908,
+    "lot_size": 4066
+  },
+  {
+    "external_id": "P0200",
+    "city": "Houston",
+    "state": "TX",
+    "price": 348777,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "square_feet": 2572,
+    "lot_size": 6070
+  },
+  {
+    "external_id": "P0201",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 490205,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "square_feet": 2750,
+    "lot_size": 7439
+  },
+  {
+    "external_id": "P0202",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 288404,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "square_feet": 1970,
+    "lot_size": 5535
+  },
+  {
+    "external_id": "P0203",
+    "city": "Austin",
+    "state": "TX",
+    "price": 589771,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "square_feet": 3193,
+    "lot_size": 6835
+  },
+  {
+    "external_id": "P0204",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 182924,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "square_feet": 1474,
+    "lot_size": 5832
+  },
+  {
+    "external_id": "P0205",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 136976,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "square_feet": 934,
+    "lot_size": 5361
+  },
+  {
+    "external_id": "P0206",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 136030,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "square_feet": 997,
+    "lot_size": 3780
+  },
+  {
+    "external_id": "P0207",
+    "city": "Houston",
+    "state": "TX",
+    "price": 256638,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "square_feet": 1578,
+    "lot_size": 8145
+  },
+  {
+    "external_id": "P0208",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 331446,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "square_feet": 1991,
+    "lot_size": 5526
+  },
+  {
+    "external_id": "P0209",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 419407,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 2307,
+    "lot_size": 7735
+  },
+  {
+    "external_id": "P0210",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 297625,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "square_feet": 2319,
+    "lot_size": 7910
+  },
+  {
+    "external_id": "P0211",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 215988,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "square_feet": 1622,
+    "lot_size": 6458
+  },
+  {
+    "external_id": "P0212",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 126060,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "square_feet": 1118,
+    "lot_size": 4054
+  },
+  {
+    "external_id": "P0213",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 348486,
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "square_feet": 2847,
+    "lot_size": 8230
+  },
+  {
+    "external_id": "P0214",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 419327,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "square_feet": 3047,
+    "lot_size": 6730
+  },
+  {
+    "external_id": "P0215",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 369390,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "square_feet": 2951,
+    "lot_size": 6237
+  },
+  {
+    "external_id": "P0216",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 201264,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "square_feet": 1899,
+    "lot_size": 4135
+  },
+  {
+    "external_id": "P0217",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 177603,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "square_feet": 1147,
+    "lot_size": 8013
+  },
+  {
+    "external_id": "P0218",
+    "city": "Austin",
+    "state": "TX",
+    "price": 222992,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 1720,
+    "lot_size": 7636
+  },
+  {
+    "external_id": "P0219",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 350553,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 2425,
+    "lot_size": 6656
+  },
+  {
+    "external_id": "P0220",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 344301,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 2217,
+    "lot_size": 4993
+  },
+  {
+    "external_id": "P0221",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 158343,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 1143,
+    "lot_size": 8279
+  },
+  {
+    "external_id": "P0222",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 378751,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 2347,
+    "lot_size": 8755
+  },
+  {
+    "external_id": "P0223",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 500021,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 3155,
+    "lot_size": 8577
+  },
+  {
+    "external_id": "P0224",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 425242,
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "square_feet": 2391,
+    "lot_size": 7399
+  },
+  {
+    "external_id": "P0225",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 334105,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "square_feet": 2373,
+    "lot_size": 3475
+  },
+  {
+    "external_id": "P0226",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 311259,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "square_feet": 2411,
+    "lot_size": 3639
+  },
+  {
+    "external_id": "P0227",
+    "city": "Houston",
+    "state": "TX",
+    "price": 241832,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "square_feet": 2163,
+    "lot_size": 6430
+  },
+  {
+    "external_id": "P0228",
+    "city": "Austin",
+    "state": "TX",
+    "price": 257267,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "square_feet": 1672,
+    "lot_size": 5645
+  },
+  {
+    "external_id": "P0229",
+    "city": "Austin",
+    "state": "TX",
+    "price": 264105,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "square_feet": 1869,
+    "lot_size": 3493
+  },
+  {
+    "external_id": "P0230",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 259609,
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "square_feet": 1980,
+    "lot_size": 3415
+  },
+  {
+    "external_id": "P0231",
+    "city": "Austin",
+    "state": "TX",
+    "price": 338886,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "square_feet": 2586,
+    "lot_size": 3213
+  },
+  {
+    "external_id": "P0232",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 308363,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "square_feet": 1792,
+    "lot_size": 8245
+  },
+  {
+    "external_id": "P0233",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 269122,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "square_feet": 2205,
+    "lot_size": 4376
+  },
+  {
+    "external_id": "P0234",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 266122,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "square_feet": 1811,
+    "lot_size": 6730
+  },
+  {
+    "external_id": "P0235",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 237546,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "square_feet": 1391,
+    "lot_size": 5617
+  },
+  {
+    "external_id": "P0236",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 566217,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "square_feet": 3130,
+    "lot_size": 5287
+  },
+  {
+    "external_id": "P0237",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 345182,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "square_feet": 2722,
+    "lot_size": 7427
+  },
+  {
+    "external_id": "P0238",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 170619,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 923,
+    "lot_size": 6077
+  },
+  {
+    "external_id": "P0239",
+    "city": "Houston",
+    "state": "TX",
+    "price": 417624,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "square_feet": 2802,
+    "lot_size": 5898
+  },
+  {
+    "external_id": "P0240",
+    "city": "Houston",
+    "state": "TX",
+    "price": 295088,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "square_feet": 2525,
+    "lot_size": 5169
+  },
+  {
+    "external_id": "P0241",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 229308,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "square_feet": 1512,
+    "lot_size": 4227
+  },
+  {
+    "external_id": "P0242",
+    "city": "Austin",
+    "state": "TX",
+    "price": 454978,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "square_feet": 2966,
+    "lot_size": 3327
+  },
+  {
+    "external_id": "P0243",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 349352,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "square_feet": 3039,
+    "lot_size": 5607
+  },
+  {
+    "external_id": "P0244",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 386216,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "square_feet": 2673,
+    "lot_size": 8759
+  },
+  {
+    "external_id": "P0245",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 223531,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 1511,
+    "lot_size": 7160
+  },
+  {
+    "external_id": "P0246",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 166743,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 1348,
+    "lot_size": 7206
+  },
+  {
+    "external_id": "P0247",
+    "city": "Austin",
+    "state": "TX",
+    "price": 259087,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "square_feet": 2248,
+    "lot_size": 6855
+  },
+  {
+    "external_id": "P0248",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 223968,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "square_feet": 2012,
+    "lot_size": 6306
+  },
+  {
+    "external_id": "P0249",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 208248,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 1145,
+    "lot_size": 4286
+  },
+  {
+    "external_id": "P0250",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 202612,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "square_feet": 1716,
+    "lot_size": 8643
+  },
+  {
+    "external_id": "P0251",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 159516,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 1221,
+    "lot_size": 5825
+  },
+  {
+    "external_id": "P0252",
+    "city": "Houston",
+    "state": "TX",
+    "price": 290164,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 1962,
+    "lot_size": 8979
+  },
+  {
+    "external_id": "P0253",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 438457,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "square_feet": 2581,
+    "lot_size": 3709
+  },
+  {
+    "external_id": "P0254",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 172048,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "square_feet": 1207,
+    "lot_size": 3353
+  },
+  {
+    "external_id": "P0255",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 438987,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "square_feet": 2753,
+    "lot_size": 8099
+  },
+  {
+    "external_id": "P0256",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 402130,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "square_feet": 2458,
+    "lot_size": 8431
+  },
+  {
+    "external_id": "P0257",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 241695,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "square_feet": 1925,
+    "lot_size": 4227
+  },
+  {
+    "external_id": "P0258",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 427728,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "square_feet": 2340,
+    "lot_size": 5653
+  },
+  {
+    "external_id": "P0259",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 436365,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "square_feet": 2509,
+    "lot_size": 8078
+  },
+  {
+    "external_id": "P0260",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 300730,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "square_feet": 2053,
+    "lot_size": 7079
+  },
+  {
+    "external_id": "P0261",
+    "city": "Austin",
+    "state": "TX",
+    "price": 296941,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 2019,
+    "lot_size": 4979
+  },
+  {
+    "external_id": "P0262",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 319410,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "square_feet": 2883,
+    "lot_size": 4217
+  },
+  {
+    "external_id": "P0263",
+    "city": "Austin",
+    "state": "TX",
+    "price": 147173,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "square_feet": 1424,
+    "lot_size": 7383
+  },
+  {
+    "external_id": "P0264",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 183519,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "square_feet": 1072,
+    "lot_size": 4827
+  },
+  {
+    "external_id": "P0265",
+    "city": "Houston",
+    "state": "TX",
+    "price": 381699,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 2770,
+    "lot_size": 6332
+  },
+  {
+    "external_id": "P0266",
+    "city": "Austin",
+    "state": "TX",
+    "price": 134639,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "square_feet": 1033,
+    "lot_size": 5608
+  },
+  {
+    "external_id": "P0267",
+    "city": "Austin",
+    "state": "TX",
+    "price": 429701,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "square_feet": 2852,
+    "lot_size": 3835
+  },
+  {
+    "external_id": "P0268",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 258161,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 1641,
+    "lot_size": 6085
+  },
+  {
+    "external_id": "P0269",
+    "city": "Austin",
+    "state": "TX",
+    "price": 439498,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 2724,
+    "lot_size": 7837
+  },
+  {
+    "external_id": "P0270",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 148191,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 1231,
+    "lot_size": 3812
+  },
+  {
+    "external_id": "P0271",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 312735,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "square_feet": 2507,
+    "lot_size": 3794
+  },
+  {
+    "external_id": "P0272",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 357086,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 2461,
+    "lot_size": 3344
+  },
+  {
+    "external_id": "P0273",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 360614,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 1968,
+    "lot_size": 4472
+  },
+  {
+    "external_id": "P0274",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 251000,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 1589,
+    "lot_size": 7675
+  },
+  {
+    "external_id": "P0275",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 484794,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 3179,
+    "lot_size": 5886
+  },
+  {
+    "external_id": "P0276",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 433155,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "square_feet": 3065,
+    "lot_size": 3458
+  },
+  {
+    "external_id": "P0277",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 322007,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "square_feet": 1840,
+    "lot_size": 6363
+  },
+  {
+    "external_id": "P0278",
+    "city": "Austin",
+    "state": "TX",
+    "price": 316686,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 2057,
+    "lot_size": 4521
+  },
+  {
+    "external_id": "P0279",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 173037,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "square_feet": 1103,
+    "lot_size": 5901
+  },
+  {
+    "external_id": "P0280",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 552296,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 3058,
+    "lot_size": 6370
+  },
+  {
+    "external_id": "P0281",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 314918,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "square_feet": 2191,
+    "lot_size": 6406
+  },
+  {
+    "external_id": "P0282",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 290694,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "square_feet": 2481,
+    "lot_size": 4079
+  },
+  {
+    "external_id": "P0283",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 313285,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "square_feet": 2128,
+    "lot_size": 5681
+  },
+  {
+    "external_id": "P0284",
+    "city": "Houston",
+    "state": "TX",
+    "price": 390405,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "square_feet": 2748,
+    "lot_size": 6502
+  },
+  {
+    "external_id": "P0285",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 140363,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "square_feet": 937,
+    "lot_size": 4449
+  },
+  {
+    "external_id": "P0286",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 314713,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 1882,
+    "lot_size": 6594
+  },
+  {
+    "external_id": "P0287",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 465804,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "square_feet": 2767,
+    "lot_size": 4833
+  },
+  {
+    "external_id": "P0288",
+    "city": "Austin",
+    "state": "TX",
+    "price": 370774,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "square_feet": 2579,
+    "lot_size": 5837
+  },
+  {
+    "external_id": "P0289",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 145693,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "square_feet": 1091,
+    "lot_size": 8009
+  },
+  {
+    "external_id": "P0290",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 354687,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "square_feet": 2631,
+    "lot_size": 5670
+  },
+  {
+    "external_id": "P0291",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 226243,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "square_feet": 1929,
+    "lot_size": 8450
+  },
+  {
+    "external_id": "P0292",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 377282,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "square_feet": 2819,
+    "lot_size": 8706
+  },
+  {
+    "external_id": "P0293",
+    "city": "Austin",
+    "state": "TX",
+    "price": 263070,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "square_feet": 2165,
+    "lot_size": 4638
+  },
+  {
+    "external_id": "P0294",
+    "city": "Austin",
+    "state": "TX",
+    "price": 343810,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "square_feet": 2531,
+    "lot_size": 8700
+  },
+  {
+    "external_id": "P0295",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 542044,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 3180,
+    "lot_size": 5373
+  },
+  {
+    "external_id": "P0296",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 194160,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "square_feet": 1130,
+    "lot_size": 5571
+  },
+  {
+    "external_id": "P0297",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 296282,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "square_feet": 1635,
+    "lot_size": 6596
+  },
+  {
+    "external_id": "P0298",
+    "city": "Houston",
+    "state": "TX",
+    "price": 176504,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 1236,
+    "lot_size": 8032
+  },
+  {
+    "external_id": "P0299",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 261549,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "square_feet": 2379,
+    "lot_size": 5031
+  },
+  {
+    "external_id": "P0300",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 164592,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "square_feet": 1031,
+    "lot_size": 7528
+  },
+  {
+    "external_id": "P0301",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 428731,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 2901,
+    "lot_size": 4114
+  },
+  {
+    "external_id": "P0302",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 461633,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "square_feet": 2799,
+    "lot_size": 7258
+  },
+  {
+    "external_id": "P0303",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 283638,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "square_feet": 1489,
+    "lot_size": 4058
+  },
+  {
+    "external_id": "P0304",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 380833,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "square_feet": 3029,
+    "lot_size": 8228
+  },
+  {
+    "external_id": "P0305",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 265885,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "square_feet": 2141,
+    "lot_size": 7320
+  },
+  {
+    "external_id": "P0306",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 205768,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 1618,
+    "lot_size": 3244
+  },
+  {
+    "external_id": "P0307",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 274083,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "square_feet": 2266,
+    "lot_size": 6358
+  },
+  {
+    "external_id": "P0308",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 136866,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 1107,
+    "lot_size": 7906
+  },
+  {
+    "external_id": "P0309",
+    "city": "Austin",
+    "state": "TX",
+    "price": 498611,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "square_feet": 3118,
+    "lot_size": 7003
+  },
+  {
+    "external_id": "P0310",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 320588,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "square_feet": 2410,
+    "lot_size": 3016
+  },
+  {
+    "external_id": "P0311",
+    "city": "Austin",
+    "state": "TX",
+    "price": 295416,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 1702,
+    "lot_size": 6166
+  },
+  {
+    "external_id": "P0312",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 300890,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "square_feet": 2123,
+    "lot_size": 3115
+  },
+  {
+    "external_id": "P0313",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 485782,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 2987,
+    "lot_size": 6970
+  },
+  {
+    "external_id": "P0314",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 395300,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "square_feet": 2577,
+    "lot_size": 4523
+  },
+  {
+    "external_id": "P0315",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 368413,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 2475,
+    "lot_size": 4733
+  },
+  {
+    "external_id": "P0316",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 133011,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "square_feet": 950,
+    "lot_size": 3275
+  },
+  {
+    "external_id": "P0317",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 127135,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 942,
+    "lot_size": 5185
+  },
+  {
+    "external_id": "P0318",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 276954,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "square_feet": 1954,
+    "lot_size": 4166
+  },
+  {
+    "external_id": "P0319",
+    "city": "Austin",
+    "state": "TX",
+    "price": 364298,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "square_feet": 3068,
+    "lot_size": 4173
+  },
+  {
+    "external_id": "P0320",
+    "city": "Austin",
+    "state": "TX",
+    "price": 187307,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "square_feet": 1167,
+    "lot_size": 5999
+  },
+  {
+    "external_id": "P0321",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 232491,
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "square_feet": 1420,
+    "lot_size": 3048
+  },
+  {
+    "external_id": "P0322",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 276463,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "square_feet": 1524,
+    "lot_size": 7320
+  },
+  {
+    "external_id": "P0323",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 461993,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "square_feet": 2600,
+    "lot_size": 3412
+  },
+  {
+    "external_id": "P0324",
+    "city": "Austin",
+    "state": "TX",
+    "price": 416613,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 3170,
+    "lot_size": 6177
+  },
+  {
+    "external_id": "P0325",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 489719,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 3004,
+    "lot_size": 6421
+  },
+  {
+    "external_id": "P0326",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 152356,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "square_feet": 1131,
+    "lot_size": 6498
+  },
+  {
+    "external_id": "P0327",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 423306,
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "square_feet": 3117,
+    "lot_size": 6105
+  },
+  {
+    "external_id": "P0328",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 258975,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "square_feet": 1471,
+    "lot_size": 3007
+  },
+  {
+    "external_id": "P0329",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 251376,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 1585,
+    "lot_size": 8236
+  },
+  {
+    "external_id": "P0330",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 427051,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 3020,
+    "lot_size": 5888
+  },
+  {
+    "external_id": "P0331",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 389209,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "square_feet": 2487,
+    "lot_size": 7292
+  },
+  {
+    "external_id": "P0332",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 255529,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 1816,
+    "lot_size": 7965
+  },
+  {
+    "external_id": "P0333",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 141094,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "square_feet": 967,
+    "lot_size": 6032
+  },
+  {
+    "external_id": "P0334",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 160645,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "square_feet": 1278,
+    "lot_size": 4373
+  },
+  {
+    "external_id": "P0335",
+    "city": "Austin",
+    "state": "TX",
+    "price": 146356,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "square_feet": 1218,
+    "lot_size": 8670
+  },
+  {
+    "external_id": "P0336",
+    "city": "Houston",
+    "state": "TX",
+    "price": 459302,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "square_feet": 2744,
+    "lot_size": 7113
+  },
+  {
+    "external_id": "P0337",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 510386,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 2998,
+    "lot_size": 5008
+  },
+  {
+    "external_id": "P0338",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 124578,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "square_feet": 1141,
+    "lot_size": 5552
+  },
+  {
+    "external_id": "P0339",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 241684,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 2166,
+    "lot_size": 3759
+  },
+  {
+    "external_id": "P0340",
+    "city": "Austin",
+    "state": "TX",
+    "price": 437257,
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "square_feet": 2555,
+    "lot_size": 6423
+  },
+  {
+    "external_id": "P0341",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 232876,
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "square_feet": 1896,
+    "lot_size": 4413
+  },
+  {
+    "external_id": "P0342",
+    "city": "Austin",
+    "state": "TX",
+    "price": 284107,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "square_feet": 1692,
+    "lot_size": 4207
+  },
+  {
+    "external_id": "P0343",
+    "city": "Houston",
+    "state": "TX",
+    "price": 272612,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 1735,
+    "lot_size": 6632
+  },
+  {
+    "external_id": "P0344",
+    "city": "Austin",
+    "state": "TX",
+    "price": 345447,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 2780,
+    "lot_size": 7606
+  },
+  {
+    "external_id": "P0345",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 452475,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "square_feet": 2847,
+    "lot_size": 5955
+  },
+  {
+    "external_id": "P0346",
+    "city": "Houston",
+    "state": "TX",
+    "price": 250559,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "square_feet": 1853,
+    "lot_size": 8280
+  },
+  {
+    "external_id": "P0347",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 370858,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 2614,
+    "lot_size": 8956
+  },
+  {
+    "external_id": "P0348",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 381221,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "square_feet": 2860,
+    "lot_size": 7302
+  },
+  {
+    "external_id": "P0349",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 288028,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 2475,
+    "lot_size": 7380
+  },
+  {
+    "external_id": "P0350",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 270728,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "square_feet": 1538,
+    "lot_size": 3216
+  },
+  {
+    "external_id": "P0351",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 240480,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 1994,
+    "lot_size": 6993
+  },
+  {
+    "external_id": "P0352",
+    "city": "Houston",
+    "state": "TX",
+    "price": 275420,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "square_feet": 2273,
+    "lot_size": 6476
+  },
+  {
+    "external_id": "P0353",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 316502,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "square_feet": 2259,
+    "lot_size": 5748
+  },
+  {
+    "external_id": "P0354",
+    "city": "Austin",
+    "state": "TX",
+    "price": 300532,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 2352,
+    "lot_size": 7353
+  },
+  {
+    "external_id": "P0355",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 246431,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "square_feet": 1891,
+    "lot_size": 5519
+  },
+  {
+    "external_id": "P0356",
+    "city": "Austin",
+    "state": "TX",
+    "price": 183519,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "square_feet": 968,
+    "lot_size": 6331
+  },
+  {
+    "external_id": "P0357",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 511133,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "square_feet": 3163,
+    "lot_size": 6095
+  },
+  {
+    "external_id": "P0358",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 274695,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 1941,
+    "lot_size": 5282
+  },
+  {
+    "external_id": "P0359",
+    "city": "Houston",
+    "state": "TX",
+    "price": 437806,
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "square_feet": 3173,
+    "lot_size": 6000
+  },
+  {
+    "external_id": "P0360",
+    "city": "Houston",
+    "state": "TX",
+    "price": 294507,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 2645,
+    "lot_size": 4796
+  },
+  {
+    "external_id": "P0361",
+    "city": "Houston",
+    "state": "TX",
+    "price": 287343,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "square_feet": 1761,
+    "lot_size": 3506
+  },
+  {
+    "external_id": "P0362",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 361525,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "square_feet": 2045,
+    "lot_size": 4934
+  },
+  {
+    "external_id": "P0363",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 234271,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "square_feet": 1268,
+    "lot_size": 7011
+  },
+  {
+    "external_id": "P0364",
+    "city": "Austin",
+    "state": "TX",
+    "price": 428980,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "square_feet": 3084,
+    "lot_size": 4097
+  },
+  {
+    "external_id": "P0365",
+    "city": "Austin",
+    "state": "TX",
+    "price": 170521,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "square_feet": 1014,
+    "lot_size": 4168
+  },
+  {
+    "external_id": "P0366",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 244150,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 1565,
+    "lot_size": 6289
+  },
+  {
+    "external_id": "P0367",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 315485,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 1642,
+    "lot_size": 5926
+  },
+  {
+    "external_id": "P0368",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 242244,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "square_feet": 1923,
+    "lot_size": 5083
+  },
+  {
+    "external_id": "P0369",
+    "city": "Austin",
+    "state": "TX",
+    "price": 426855,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "square_feet": 2549,
+    "lot_size": 5304
+  },
+  {
+    "external_id": "P0370",
+    "city": "Houston",
+    "state": "TX",
+    "price": 411728,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "square_feet": 3192,
+    "lot_size": 3852
+  },
+  {
+    "external_id": "P0371",
+    "city": "Austin",
+    "state": "TX",
+    "price": 444943,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 2641,
+    "lot_size": 7588
+  },
+  {
+    "external_id": "P0372",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 180092,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 1302,
+    "lot_size": 6568
+  },
+  {
+    "external_id": "P0373",
+    "city": "Austin",
+    "state": "TX",
+    "price": 155759,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "square_feet": 1097,
+    "lot_size": 3442
+  },
+  {
+    "external_id": "P0374",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 439234,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 2535,
+    "lot_size": 4399
+  },
+  {
+    "external_id": "P0375",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 552784,
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "square_feet": 3048,
+    "lot_size": 6653
+  },
+  {
+    "external_id": "P0376",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 214742,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "square_feet": 1449,
+    "lot_size": 7988
+  },
+  {
+    "external_id": "P0377",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 389035,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "square_feet": 2368,
+    "lot_size": 4452
+  },
+  {
+    "external_id": "P0378",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 236828,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 1402,
+    "lot_size": 5211
+  },
+  {
+    "external_id": "P0379",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 377800,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "square_feet": 2208,
+    "lot_size": 5238
+  },
+  {
+    "external_id": "P0380",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 534721,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "square_feet": 3186,
+    "lot_size": 3622
+  },
+  {
+    "external_id": "P0381",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 361359,
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "square_feet": 2105,
+    "lot_size": 8977
+  },
+  {
+    "external_id": "P0382",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 375693,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "square_feet": 2949,
+    "lot_size": 5441
+  },
+  {
+    "external_id": "P0383",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 203715,
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "square_feet": 1093,
+    "lot_size": 3729
+  },
+  {
+    "external_id": "P0384",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 140876,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 1071,
+    "lot_size": 4804
+  },
+  {
+    "external_id": "P0385",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 222921,
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "square_feet": 1315,
+    "lot_size": 5093
+  },
+  {
+    "external_id": "P0386",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 282858,
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "square_feet": 2145,
+    "lot_size": 6584
+  },
+  {
+    "external_id": "P0387",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 197555,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "square_feet": 1292,
+    "lot_size": 3050
+  },
+  {
+    "external_id": "P0388",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 257866,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "square_feet": 2269,
+    "lot_size": 5486
+  },
+  {
+    "external_id": "P0389",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 272512,
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "square_feet": 2093,
+    "lot_size": 5636
+  },
+  {
+    "external_id": "P0390",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 263383,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "square_feet": 2121,
+    "lot_size": 3267
+  },
+  {
+    "external_id": "P0391",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 334372,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "square_feet": 2143,
+    "lot_size": 3989
+  },
+  {
+    "external_id": "P0392",
+    "city": "Houston",
+    "state": "TX",
+    "price": 252067,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "square_feet": 1800,
+    "lot_size": 6875
+  },
+  {
+    "external_id": "P0393",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 372797,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "square_feet": 2783,
+    "lot_size": 6319
+  },
+  {
+    "external_id": "P0394",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 210389,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "square_feet": 1708,
+    "lot_size": 5622
+  },
+  {
+    "external_id": "P0395",
+    "city": "Austin",
+    "state": "TX",
+    "price": 157792,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "square_feet": 1140,
+    "lot_size": 3052
+  },
+  {
+    "external_id": "P0396",
+    "city": "Houston",
+    "state": "TX",
+    "price": 360956,
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "square_feet": 2614,
+    "lot_size": 7749
+  },
+  {
+    "external_id": "P0397",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 365287,
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "square_feet": 3184,
+    "lot_size": 8265
+  },
+  {
+    "external_id": "P0398",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 235867,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "square_feet": 2242,
+    "lot_size": 6926
+  },
+  {
+    "external_id": "P0399",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 206025,
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "square_feet": 1891,
+    "lot_size": 6339
+  },
+  {
+    "external_id": "P0400",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 537467,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "square_feet": 3112,
+    "lot_size": 5650
+  },
+  {
+    "external_id": "P0401",
+    "city": "Fort Worth",
+    "state": "TX",
+    "price": 50000,
+    "bedrooms": 8,
+    "bathrooms": 1,
+    "square_feet": 6000,
+    "lot_size": 20000
+  },
+  {
+    "external_id": "P0402",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 50000,
+    "bedrooms": 8,
+    "bathrooms": 6,
+    "square_feet": 6000,
+    "lot_size": 20000
+  },
+  {
+    "external_id": "P0403",
+    "city": "Tampa",
+    "state": "FL",
+    "price": 2500000,
+    "bedrooms": 1,
+    "bathrooms": 6,
+    "square_feet": 400,
+    "lot_size": 20000
+  },
+  {
+    "external_id": "P0404",
+    "city": "Austin",
+    "state": "TX",
+    "price": 5000000,
+    "bedrooms": 8,
+    "bathrooms": 1,
+    "square_feet": 6000,
+    "lot_size": 20000
+  },
+  {
+    "external_id": "P0405",
+    "city": "Dallas",
+    "state": "TX",
+    "price": 2500000,
+    "bedrooms": 8,
+    "bathrooms": 6,
+    "square_feet": 400,
+    "lot_size": 1500
+  },
+  {
+    "external_id": "P0406",
+    "city": "San Antonio",
+    "state": "TX",
+    "price": 5000000,
+    "bedrooms": 8,
+    "bathrooms": 1,
+    "square_feet": 6000,
+    "lot_size": 20000
+  },
+  {
+    "external_id": "P0407",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 2500000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "square_feet": 6000,
+    "lot_size": 1500
+  },
+  {
+    "external_id": "P0408",
+    "city": "Orlando",
+    "state": "FL",
+    "price": 2500000,
+    "bedrooms": 8,
+    "bathrooms": 1,
+    "square_feet": 400,
+    "lot_size": 1500
+  },
+  {
+    "external_id": "P0409",
+    "city": "Jacksonville",
+    "state": "FL",
+    "price": 5000000,
+    "bedrooms": 8,
+    "bathrooms": 6,
+    "square_feet": 400,
+    "lot_size": 1500
+  },
+  {
+    "external_id": "P0410",
+    "city": "Austin",
+    "state": "TX",
+    "price": 50000,
+    "bedrooms": 8,
+    "bathrooms": 1,
+    "square_feet": 6000,
+    "lot_size": 20000
+  },
+  {
+    "external_id": "P0411",
+    "city": "Houston"
+  },
+  {
+    "external_id": "P0412",
+    "city": "Dallas",
+    "price": "three hundred thousand"
+  },
+  {
+    "external_id": null,
+    "city": "Austin",
+    "price": 250000
+  },
+  {
+    "city": "Tampa",
+    "price": 190000
+  },
+  {
+    "external_id": "P0415",
+    "price": 210000
+  },
+  {
+    "external_id": "P0416",
+    "city": "Orlando",
+    "price": -150000
+  },
+  {
+    "external_id": "P0417",
+    "city": "Houston",
+    "state": "TX",
+    "price": 0
+  },
+  {
+    "external_id": "P0418",
+    "city": 123,
+    "price": 220000
+  },
+  {
+    "external_id": "P0419",
+    "city": "Dallas",
+    "price": null
+  },
+  {}
+]
