@@ -1,0 +1,43 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Property {
+  id         Int      @id @default(autoincrement())
+  externalId String   @unique @map("external_id")
+  city       String
+  state      String
+  price      Float
+  bedrooms   Int
+  bathrooms  Float
+  squareFeet Int      @map("square_feet")
+  lotSize    Int      @map("lot_size")
+  createdAt  DateTime @default(now()) @map("created_at")
+
+  // Individual indexes for single-criterion queries and analytics GROUP BY
+  @@index([city])
+  @@index([price])
+  @@index([bedrooms])
+  @@index([squareFeet])
+  // Composite index covering the full matching engine WHERE + scoring columns
+  @@index([city, price, bedrooms, squareFeet], name: "idx_matching_composite")
+  @@map("properties")
+}
+
+model Investor {
+  id            Int      @id @default(autoincrement())
+  name          String
+  minPrice      Float    @map("min_price")
+  maxPrice      Float    @map("max_price")
+  preferredCity String   @map("preferred_city")
+  minBedrooms   Int      @map("min_bedrooms")
+  minSquareFeet Int      @map("min_square_feet")
+  createdAt     DateTime @default(now()) @map("created_at")
+
+  @@map("investors")
+}
